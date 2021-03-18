@@ -1,2 +1,1 @@
 # php-database-class
-# Soon ... :-)
